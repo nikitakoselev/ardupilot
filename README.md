@@ -16,7 +16,7 @@
 
 [![Test Coverage](https://github.com/ArduPilot/ardupilot/actions/workflows/test_coverage.yml/badge.svg?branch=master)](https://github.com/ArduPilot/ardupilot/actions/workflows/test_coverage.yml)
 
-[![Autotest Status](https://autotest.ardupilot.org/autotest-badge.svg)](https://autotest.ardupilot.org/)
+[![Autotest Status](https://autotest.ardupilot.org/autotest-badge.svg)](https://autotest.ardupilot.org)
 
 ArduPilot is the most advanced, full-featured, and reliable open source autopilot software available.
 It has been under development since 2010 by a diverse team of professional engineers, computer scientists, and community contributors.
@@ -37,7 +37,7 @@ It is continually being expanded to provide support for new emerging vehicle typ
 
 ## User Support & Discussion Forums ##
 
-- Support Forum: <https://discuss.ardupilot.org/>
+- Support Forum: <https://discuss.ardupilot.org>
 
 - Community Site: <https://ardupilot.org>
 
